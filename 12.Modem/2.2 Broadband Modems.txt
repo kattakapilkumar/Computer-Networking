@@ -1,0 +1,5 @@
+A broadband modem like those used for DSL or cable internet access uses advanced signaling techniques to achieve dramatically higher network speeds than traditional dial-up modems. Broadband modems are often referred to as high-speed modems. Cellular modems are a type of digital modem that establishes internet connectivity between a mobile device and a cell phone network.
+
+External broadband modems plug into a home broadband router or other home gateway device on one end and the external internet interface such as a cable line on the other. The router or gateway directs the signal to all the devices in the business or home as needed. Some broadband routers include an integrated modem as a single hardware unit.
+
+Many broadband internet providers supply suitable modem hardware to their customers at no charge or for a monthly fee. However, standard modems can be purchased through retail outlets.

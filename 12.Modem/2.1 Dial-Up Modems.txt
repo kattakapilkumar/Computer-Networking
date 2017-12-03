@@ -1,0 +1,8 @@
+Traditional modems used on dial-up networks convert data between the analog form used on telephone lines and the digital form used on computers.
+
+An external dial-up modem plugs into a computer at one end and a telephone line on the other end. In the past, some computer makers integrated internal dial-up modems into their computer designs.
+
+Modern dial-up network modems transmit data at a maximum rate of 56,000 bits per second. However, inherent limitations of public telephone networks often limit modem data rates to 33.6 Kbps or lower in practice.
+
+
+When connecting to a network via a dial-up modem, the devices customarily relay through a speaker the distinctive sounds created by sending digital data over the voice line. Because the connection process and data patterns are similar each time, hearing the sound pattern helps a user verify whether the connection process is working.
