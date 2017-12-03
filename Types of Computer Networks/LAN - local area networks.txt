@@ -1,0 +1,3 @@
+1)The network between the 2 or more devices or computers that are connected in small area or in a building or in a organization is called as a LAN(local area network).
+
+2) They may connected by cables or wifiless networks.
