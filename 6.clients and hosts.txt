@@ -1,0 +1,2 @@
+client : our pc by which we are requesting.
+host : the server through which we are getting data.
