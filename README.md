@@ -4,4 +4,5 @@ resources (https://www.youtube.com/watch?v=ueVnSz_lXEs&list=PL6gx4Cwl9DGBpuvPW0a
 https://www.britannica.com/technology/protocol-computer-science
 
 # OSI MODEL
-Real Time Example (https://www.youtube.com/watch?v=VGGmBhARuiY)
+1).Real Time Example1 (https://www.youtube.com/watch?v=VGGmBhARuiY)
+2).Real Time Example2 (https://www.youtube.com/watch?v=-6Uoku-M6oY)
