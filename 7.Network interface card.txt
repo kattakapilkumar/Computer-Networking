@@ -1,0 +1,9 @@
+this is having two parts
+
+1) one is connected to the computer i.e to mothe board.
+
+
+2) one is connected to the communication media, ethernet plug.
+
+
+cmd ::: devmgmt.msc
