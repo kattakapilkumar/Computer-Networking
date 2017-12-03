@@ -1,0 +1,11 @@
+http://www.thenewboston.org/index.php
+
+
+here    
+1)http  ::: this is the protocol - hyper text transfer protocol
+
+2)www.thenewboston.org   ---- this is the server name.
+
+
+
+3)index.php   -  this is file name
