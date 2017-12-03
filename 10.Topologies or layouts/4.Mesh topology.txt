@@ -1,0 +1,17 @@
+Mesh[edit]
+Main article: Mesh networking
+The value of fully meshed networks is proportional to the exponent of the number of subscribers, assuming that communicating groups of any two endpoints, up to and including all the endpoints, is approximated by Reed's Law.
+
+Fully connected network[edit]
+
+Fully connected mesh topology
+In a fully connected network, all nodes are interconnected. (In graph theory this is called a complete graph.) The simplest fully connected network is a two-node network. A fully connected network doesn't need to use packet switching or broadcasting. However, since the number of connections grows quadratically with the number of nodes: This kind of topology does not trip and affect other nodes in the network
+
+{\displaystyle c={\frac {n(n-1)}{2}}.\,} {\displaystyle c={\frac {n(n-1)}{2}}.\,}
+
+This makes it impractical for large networks.
+
+Partially connected network[edit]
+
+Partially connected mesh topology
+In a partially connected network, certain nodes are connected to exactly one other node; but some nodes are connected to two or more other nodes with a point-to-point link. This makes it possible to make use of some of the redundancy of mesh topology that is physically fully connected, without the expense and complexity required for a connection between every node in the 

@@ -1,0 +1,15 @@
+
+Defination : Multiple devices are connected to a single cable.which is called bus.
+
+
+
+Advantages:
+
+1.easy to build.
+2.not so expensive.
+
+
+
+Disadvantages:
+
+1.it can easily break.

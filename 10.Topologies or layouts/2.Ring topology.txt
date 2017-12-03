@@ -1,0 +1,13 @@
+Ring[edit]
+Main article: Ring network
+
+Ring network topology
+A ring topology is a bus topology in a closed loop. Data travels around the ring in one direction. When one node sends data to another, the data passes through each intermediate node on the ring until it reaches its destination. The intermediate nodes repeat (re transmit) the data to keep the signal strong.[4] Every node is a peer; there is no hierarchical relationship of clients and servers. If one node is unable to re transmit data, it severs communication between the nodes before and after it in the bus.
+
+Advantages:
+
+When the load on the network increases, its performance is better than bus topology.
+There is no need of network server to control the connectivity between workstations.
+Disadvantages:
+
+Aggregate network bandwidth is bottlenecked by the weakest link between two nodes.
